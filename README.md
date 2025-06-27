@@ -15,5 +15,5 @@ This is the React frontend for the Auth and Blog app using Vite and Tailwind CSS
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/your-frontend-repo.git
-   cd your-frontend-repo
+   git clone https://github.com/ibhimwhar/auth-blog-platform-client.git
+   cd auth-blog-platform-client
