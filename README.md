@@ -1,0 +1,19 @@
+# React Frontend - Auth & Blog App
+
+This is the React frontend for the Auth and Blog app using Vite and Tailwind CSS.
+
+## Features
+
+- User login and signup
+- Fetch and display blog posts
+- Post new blogs
+- Dark mode toggle
+- Responsive design
+
+## Setup
+
+1. Clone this repo:
+
+   ```bash
+   git clone https://github.com/yourusername/your-frontend-repo.git
+   cd your-frontend-repo
